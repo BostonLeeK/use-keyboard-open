@@ -1,12 +1,12 @@
-# use-keyboard-open #
+# use-keyboard-open react hook
 
-### install
+### how to install
 
 `npm i use-keyboard-open`
 
-### example
+### example of use
 
-```
+```javascript
 import useKeyboardOpen from "use-keyboard-open";
 export default function App() {
   const isKeyboardOpen = useKeyboardOpen();

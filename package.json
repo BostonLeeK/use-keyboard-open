@@ -1,6 +1,6 @@
 {
   "name": "use-keyboard-open",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Hook for detecting if mobile keyboard on ios and android is open",
   "main": "src/index.js",
   "peer Dependencies": {
