@@ -1,0 +1,31 @@
+{
+  "name": "use-keyboard-open",
+  "version": "1.0.0",
+  "description": "React Hook for detecting if mobile keyboard on ios and android is open",
+  "main": "src/index.js",
+  "scripts": {
+
+  },
+  "peer Dependencies": {
+    "react": "^17.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BostonLeeK/use-keyboard-open.git"
+  },
+  "devDependencies": {
+   "typescript": "^5.3.3"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "mobile",
+    "keyboard"
+  ],
+  "author": "BostonLeeK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BostonLeeK/use-keyboard-open/issues"
+  },
+  "homepage": "https://github.com/BostonLeeK/use-keyboard-open#readme"
+}
