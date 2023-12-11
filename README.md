@@ -1,9 +1,6 @@
 # use-keyboard-open #
 
 ### install
-`yarn add use-keyboard-open`
-
-or
 
 `npm i use-keyboard-open`
 
